@@ -1,42 +1,57 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/subthiel-eu/.github/main/profile/assets/banner.png" alt="Subthiel · Layer für Layer. Zeile für Zeile." width="100%" />
+<img src="https://raw.githubusercontent.com/subthiel-eu/.github/main/profile/assets/banner.png" alt="Subthiel" width="520" />
 
-<br />
+<br /><br />
 
-**3D-Druck & Softwareentwicklung aus Viersen, NRW**
+**Layer by layer. Line by line.**
 
-![3D-Druck](https://img.shields.io/badge/3D--Druck-EE3F8C?style=for-the-badge&labelColor=0F1826)
-![Software](https://img.shields.io/badge/Softwareentwicklung-17BFB0?style=for-the-badge&labelColor=0F1826)
+3D printing and software development, built with care in Viersen, Germany.
+
+![3D Printing](https://img.shields.io/badge/3D_Printing-EE3F8C?style=for-the-badge&labelColor=0F1826)
+![Software](https://img.shields.io/badge/Software_Development-17BFB0?style=for-the-badge&labelColor=0F1826)
 
 </div>
 
 ---
 
-## Worum es geht
+## About Subthiel
 
-Subthiel verbindet zwei Handwerke: Dinge, die Schicht für Schicht aus dem Drucker wachsen, und Software, die Zeile für Zeile entsteht. Beides mit demselben Anspruch, sauber, durchdacht und bis zum letzten Layer fertig.
+Subthiel is an independent studio from Viersen, North Rhine-Westphalia, run by Marco Thiel. It works across two crafts that share the same mindset: making things properly, from the first layer to the last line.
 
-- **Fuchsia** steht bei uns immer für **3D-Druck**.
-- **Teal** steht bei uns immer für **Software**.
+- **Additive manufacturing.** Designed and 3D printed products, functional parts, and small runs, from idea and CAD to a finished, packable object.
+- **Software development.** Web applications, integrations, automation, and the tooling that keeps the workshop and the shop running.
 
-Die Akzente sind funktional, nicht dekorativ.
+The two sides are not separate hobbies, they feed each other: physical products get proper storefronts, tooling, and automation, and software projects stay grounded in something real that ships.
 
-## Was hier liegt
+## The color code
 
-Diese Organisation bündelt den Code und die Assets rund um Subthiel: Brand- und CI-Material, Shop-Theme, Produktdaten und kleine Tools wie den Reservierungs-Worker. Die meisten Repositories sind privat, das Profil hier ist der öffentliche Einstiegspunkt.
+Our two accents are functional, never decorative, and never mixed:
 
-## Kontakt
+- 🩷 **Fuchsia** always means **3D printing**.
+- 🩵 **Teal** always means **software**.
+
+## What lives here
+
+This organization is the home for Subthiel's code and assets. Most product and shop repositories are private, but this is also where we plan to publish the parts worth sharing:
+
+- 🛠️ **Tools & utilities** we build for our own workflow, printing, and shop operations.
+- 📖 **Open source** projects and small libraries, released when they can stand on their own.
+- 🎨 **Brand & design** assets and the conventions behind them.
+
+If you find something here useful, feel free to open an issue or reach out.
+
+## Get in touch
 
 | | |
 |---|---|
 | 🛒 Shop | [shop.subthiel.eu](https://shop.subthiel.eu) |
-| ✉️ E-Mail | [info@subthiel.eu](mailto:info@subthiel.eu) |
-| 📍 Standort | Viersen, Nordrhein-Westfalen |
+| ✉️ Email | [info@subthiel.eu](mailto:info@subthiel.eu) |
+| 📍 Based in | Viersen, North Rhine-Westphalia, Germany |
 
 <div align="center">
 <br />
-<sub>Subthiel · Marco Thiel · Kleinunternehmer nach §19 UStG</sub>
-<br />
-<strong>Layer für Layer. Zeile für Zeile.</strong>
+<sub>Subthiel · Marco Thiel · small business under §19 German VAT Act (Kleinunternehmer)</sub>
+<br /><br />
+<strong>Layer by layer. Line by line.</strong>
 </div>
