@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/subthiel-eu/.github/main/profile/assets/banner.png" alt="Subthiel" width="520" />
+<img src="https://raw.githubusercontent.com/subthiel-eu/.github/main/profile/assets/banner.png" alt="Subthiel" width="720" />
 
 <br /><br />
 
-**Layer by layer. Line by line.**
+# Layer by layer. Line by line.
 
-3D printing and software development, built with care in Viersen, Germany.
+### 3D printing and software development, built with care in Viersen, Germany.
+
+<br />
 
 ![3D Printing](https://img.shields.io/badge/3D_Printing-EE3F8C?style=for-the-badge&labelColor=0F1826)
 ![Software](https://img.shields.io/badge/Software_Development-17BFB0?style=for-the-badge&labelColor=0F1826)
@@ -51,7 +53,9 @@ If you find something here useful, feel free to open an issue or reach out.
 
 <div align="center">
 <br />
-<sub>Subthiel · Marco Thiel · small business under §19 German VAT Act (Kleinunternehmer)</sub>
-<br /><br />
-<strong>Layer by layer. Line by line.</strong>
+
+**Subthiel** · Marco Thiel · small business under §19 German VAT Act (Kleinunternehmer)
+
+### Layer by layer. Line by line.
+
 </div>
