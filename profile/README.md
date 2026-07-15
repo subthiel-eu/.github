@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/subthiel-eu/.github/main/profile/assets/banner.png" alt="Subthiel" width="720" />
+<img src="https://raw.githubusercontent.com/subthiel-eu/.github/main/profile/assets/header.png" alt="Subthiel" width="720" />
 
 <br /><br />
 
